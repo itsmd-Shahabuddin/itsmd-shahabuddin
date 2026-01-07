@@ -1,5 +1,3 @@
-(https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/363801148_2304431093098848_5724693730779346626_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHT05Cii4RK_GA44xBcZwzonwbPEKZcHFKfBs8QplwcUnIyUfZEpYTEnTxM_nMwVNZpddTFSIKK1xzdgxUtZUod&_nc_ohc=ixGI7bHGNeUAX_M6Fnp&_nc_ht=scontent.fdac148-1.fna&oh=00_AfCHf2ItG-xy3wonuGpDt_CxjqJatVT0g76viUmsiA7ung&oe=64E2882D)
-
 ### Hi there 👋, I'm Shahabuddin
 #### Web Developer
 
